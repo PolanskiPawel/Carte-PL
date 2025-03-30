@@ -64,6 +64,7 @@ const geojsonFiles = [
   'data/Olkusz.geojson',
   'data/Oświęcim.geojson',
   'data/Piwniczna-Zdrój.geojson',
+  'data/Polska.geojson',
   'data/Powroźnik.geojson',
   'data/Proszowice.geojson',
   'data/Rabka-Zdrój.geojson',
