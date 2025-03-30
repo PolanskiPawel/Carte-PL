@@ -34,8 +34,3 @@ const colors = ['#0077ff', '#28a745', '#ff5733', '#6f42c1'];
 geojsonFiles.forEach((file, index) => {
   loadGeoJSON(file, colors[index % colors.length]);
 });
-
-
-
-
-
